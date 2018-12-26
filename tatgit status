@@ -1,0 +1,260 @@
+[1mdiff --git a/dev_roster.txt b/dev_roster.txt[m
+[1mindex ce204b0..d5d6bce 100644[m
+[1m--- a/dev_roster.txt[m
+[1m+++ b/dev_roster.txt[m
+[36m@@ -1,85 +1,169 @@[m
+[31m-[m
+[31m--The Tech Academy - Developer Team Roster[m
+[31m--[m
+[31m--Please type your first name and last initial on the proceeding lines...[m
+[31m-[m
+[31m-Erin C.[m
+[31m-Lyci G.X[m
+[31m-Travis T.[m
+[31m-Seth J.[m
+[31m-TJ T.[m
+[31m-Samme Q.[m
+[31m-Peter R.[m
+[31m-Max J.[m
+[31m-John V.[m
+[31m-Andrew B.[m
+[31m-Aaron M.[m
+[31m-Joshua B.[m
+[31m-JoshBatchelor777[m
+[31m-Daniel C.[m
+[31m-Garrett B.[m
+[31m-Stephanie P.[m
+[31m-Mike E.[m
+[31m-Vaylain.[m
+[31m-George W.[m
+[31m-Matt S.[m
+[31m-Chris L.[m
+[31m-Reis M.[m
+[31m-Duncan G.[m
+[31m-Bryce T.[m
+[31m-Austin C.[m
+[31m-Riley M.[m
+[31m-Russell S.[m
+[31m-CJ J.[m
+[31m-Anthony J.[m
+[31m-Russell S.[m
+[31m-Fumi M.[m
+[31m-Bill B.[m
+[31m-Ricky L.[m
+[31m-Luis L.[m
+[31m-Andrew D.[m
+[31m-John G.[m
+[31m-Kelli D.[m
+[31m-Ryan V.[m
+[31m-Nicholas G.[m
+[31m-Roman S.[m
+[31m-Carrie D.[m
+[31m-Rian J. [m
+[31m-Laurie R.[m
+[31m-Zach F.[m
+[31m-Dylan L.[m
+[31m-Sagar A.[m
+[31m-Zach F.[m
+[31m-min yun.[m
+[31m-Oliver F.[m
+[31m-Seth Musich[m
+[31m-Tony B.[m
+[31m-Samuel Wright[m
+[31m-Matthias W.[m
+[31m-Jennifer B.[m
+[31m-Stephen T.[m
+[31m-Brian M.[m
+[31m-Sean G.[m
+[31m-Jeff F.[m
+[31m-Julia C.[m
+[31m-Jonathan G.[m
+[31m-Daler R-Z. [m
+[31m-Alissa D.[m
+[31m-James R.[m
+[31m-Taylor H.[m
+[31m-KEVIN G.[m
+[31m-Tyler G[m
+[31m-Molly B.[m
+[31m-Jermaine B.[m
+[31m-Jennifer P.[m
+[31m-Peter M.[m
+[31m-[m
+[31m-Alyssa G.[m
+[31m-=======[m
+[31m-Joshua J.[m
+[31m- testrun[m
+[31m-Joseph Rusk [m
+[31m-=======[m
+[31m-Brandon [m
+[31m-Alex H[m
+[31m-[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32m-The Tech Academy - Developer Team Roster[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32m-[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32m-Please type your first name and last initial on the proceeding lines...[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mErin C.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mLyci G.X[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mTravis T.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSeth J.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mTJ T.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSamme Q.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mPeter R.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMax J.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJohn V.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAndrew B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAaron M.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJoshua B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJoshBatchelor777[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mDaniel C.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mGarrett B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mStephanie P.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMike E.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mVaylain.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mGeorge W.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMatt S.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mChris L.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mReis M.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mDuncan G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mBryce T.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAustin C.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRiley M.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRussell S.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mCJ J.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAnthony J.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRussell S.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mFumi M.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mBill B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRicky L.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mLuis L.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAndrew D.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJohn G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mKelli D.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRyan V.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mNicholas G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRoman S.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mCarrie D.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mRian J.[m[41m [m
+[32m+[m[41m[m
+[32m+[m[32mLaurie R.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mZach F.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mDylan L.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSagar A.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mZach F.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mmin yun.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mOliver F.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSeth Musich[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mTony B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSamuel Wright[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMatthias W.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJennifer B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mStephen T.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mBrian M.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mSean G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJeff F.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJulia C.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJonathan G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mDaler R-Z.[m[41m [m
+[32m+[m[41m[m
+[32m+[m[32mAlissa D.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJames R.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mTaylor H.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mKEVIN G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mTyler G[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mMolly B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJermaine B.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJennifer P.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mPeter M.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mAlyssa G.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32m=======[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJoshua J.[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32m testrun[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mJoseph Rusk[m[41m [m
+[32m+[m[41m[m
+[32m+[m[32m=======[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mBrandon[m[41m [m
+[32m+[m[41m[m
+[32m+[m[32mAlex H[m[41m[m
+[32m+[m[41m[m
+[32m+[m[32mDave W[m
+\ No newline at end of file[m
